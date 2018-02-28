@@ -98,6 +98,8 @@ This page will help you install and build your first React Native app. If you al
 
 Assuming that you have [Node](https://nodejs.org/en/download/) installed, you can use npm to install the `create-react-native-app` command line utility:
 
+Note:  We recommend using npm 4
+
 ```
 npm install -g create-react-native-app
 ```
